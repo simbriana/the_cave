@@ -9,12 +9,12 @@ A fun game
 
 ##Maria
 1. Red
-2.
+2. Yellow
 3.
 4.
 
 ##Leah
-1.
+1. Turquoise
 2.
 3.
 4.
